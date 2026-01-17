@@ -114,6 +114,7 @@ Uni-RAG follows a **three-layer architecture**:
 
 - The MVP runs locally in offline mode.
 - A demo video showcasing document ingestion and question answering is provided as part of the hackathon submission.
+📽️ [Click here to watch the demo video](https://drive.google.com/file/d/1Qlr_BELhkUFR_ptauaLIR7fqGog0Df4F/view?usp=drive_link)
 
 ---
 
@@ -124,8 +125,6 @@ Uni-RAG follows a **three-layer architecture**:
 3. Install required dependencies
 4. Ensure Ollama is running with the required models
 5. Start the FastAPI server using Uvicorn
-
-*(Detailed setup instructions can be added if required.)*
 
 ---
 
